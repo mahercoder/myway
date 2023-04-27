@@ -1,0 +1,30 @@
+{
+  "name": "openbudget-template-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon .",
+    "db": "sequelize-cli"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3",
+    "phone": "^3.1.36",
+    "sequelize": "^6.29.3",
+    "sqlite3": "^5.1.6",
+    "telegraf": "^4.12.2",
+    "telegraf-ratelimit": "^2.0.0",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21",
+    "sequelize-cli": "^6.6.0"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "./config.json"
+    ]
+  }
+}
