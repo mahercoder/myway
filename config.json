@@ -1,11 +1,11 @@
 {
   "production": 1,
-  "token": "6283879926:AAGIuxN526erNgQ8wTpJOsB2DYbRg7QkT98",
-  "initiativeId": "2352c23a-104d-4684-bbfd-4e62bbc866dd",
+  "token": "5227363417:AAFG_Uef1ZMoodr_s2af4pY9U9-74SUb9Jo",
+  "initiativeId": "9fbdedd4-5edc-468c-a54a-999335c7060e",
   "channel": -1001896298267,
-  "voteCost": 15000,
+  "voteCost": 5000,
   "referCost": 2000,
-  "admins": [800123427, 792684458],
+  "admins": [792684458],
   "minWithdraw": 4000,
   "apiRate": 1000,
   "superadmins": [800123427, 792684458]
